@@ -1,0 +1,2 @@
+public class etss3 {
+}
