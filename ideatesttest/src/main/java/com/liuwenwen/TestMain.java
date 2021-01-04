@@ -6,5 +6,6 @@ import java.util.*;
 public class TestMain {
     public static void main(String[] args) {
         System.out.println("say test2 world");
+        System.out.println("add");
     }
 }
