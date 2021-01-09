@@ -9,5 +9,6 @@ public class TestMainRename {
         System.out.println("say test2 world");
         System.out.println("add");
         System.out.println("new tel");
+        System.out.println("rename");
     }
 }
